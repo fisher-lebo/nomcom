@@ -4,9 +4,9 @@ nomcom
 combinations of names of notable individuals, such as:
 
 * Elton John Oliver Reed
-- [Elton John](http://en.wikipedia.org/Elton_John)
-- [John Oliver](http://en.wikipedia.org/John_Oliver)
-* [Oliver Reed](http://en.wikipedia.org/Oliver_Reed)
+  * [Elton John](http://en.wikipedia.org/Elton_John)
+  * [John Oliver](http://en.wikipedia.org/John_Oliver)
+  * [Oliver Reed](http://en.wikipedia.org/Oliver_Reed)
 
 On Reddit there is a user with the username [AlGoreVidalSassoon](http://reddit.com/u/AlGoreVidalSassoon). This is the combination of Al Gore + Gore Vidal + Vidal Sassoon, which struck me as terribly clever so I wanted to have some way to automate the combining of names in this way.
 
