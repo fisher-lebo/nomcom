@@ -8,6 +8,8 @@ combinations of names of notable individuals, such as:
   * [John Oliver](http://en.wikipedia.org/wiki/John_Oliver)
   * [Oliver Reed](http://en.wikipedia.org/wiki/Oliver_Reed)
 
+Please see [combos.txt](https://github.com/fisher-lebo/nomcom/blob/master/combos.txt) for full results.
+
 On Reddit there is a user with the username [AlGoreVidalSassoon](http://reddit.com/u/AlGoreVidalSassoon). This is the combination of [Al Gore](http://en.wikipedia.org/wiki/Al_Gore) + [Gore Vidal](http://en.wikipedia.org/wiki/Gore_Vidal) + [Vidal Sassoon](http://en.wikipedia.org/wiki/Vidal_Sassoon), which struck me as terribly clever so I wanted to have some way to automate the combining of names in this way.
 
 After some Googling, I struggled to find anything relevant, which suprised me somewhat as I think this is a fun puzzle. I had some idea of the approach I needed to do it myself, but then struggled to find a database of historical names anywhere. Wikipedia to the rescue. One of Wikipedia's many lists of lists include notable individuals grouped by [nationality](http://en.wikipedia.org/wiki/Lists_of_people_by_nationality). The first part of the script simply scapes a number of these individual pages. The current database generated from this includes people from Britons as well as Americans from each individual state. These were chosen in particular to both limit the amount of data that needed to be pulled as well as to keep things relatively simple with Anglicized names.
