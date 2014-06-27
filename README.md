@@ -3,7 +3,7 @@ nomcom
 
 combinations of names
 
-On Reddit there is a user with the username [AlGoreVidalSassoon](http://reddit.com/r/AlGoreVidalSassoon). This is the combination of Al Gore + Gore Vidal + Vidal Sassoon, which struck me as terribly clever so I wanted to have some way to automate the combining of names in this way.
+On Reddit there is a user with the username [AlGoreVidalSassoon](http://reddit.com/u/AlGoreVidalSassoon). This is the combination of Al Gore + Gore Vidal + Vidal Sassoon, which struck me as terribly clever so I wanted to have some way to automate the combining of names in this way.
 
 After some Googling, I struggled to find anything relevant, which suprised me somewhat as I think this is a fun puzzle. I had some idea of the approach I needed to do it myself, but then struggled to find a database of historical names anywhere. Wikipedia to the rescue. One of Wikipedia's many lists of lists include notable individuals grouped by [nationality](http://en.wikipedia.org/wiki/Lists_of_people_by_nationality). The first part of the script simply scapes a number of these individual pages. The current database generated from this includes people from Britons as well as Americans from each individual state. 
 
