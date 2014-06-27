@@ -16,6 +16,6 @@ After some Googling, I struggled to find anything relevant, which suprised me so
 
 The next part attempts to match the names. Each name is converted to first name + last name, so Ralph Waldo Emerson becomes Ralph Emerson. This does not keep perfectly with the historical record, but it makes sure that in each combination of three names, each section is the name of an individual. For example, if Woodrow T Wilson was used, one of the combinations could be Woodrow T Wilson Chandler Bing. Woodrow T and T Wilson aren't the names of individuals we are aiming for. Breaking each name down to first name + last name keeps a nice symmetry.
 
-The matching algorithim is naive but works. Currently it combines 3 names, but these matches could be as small or large as desired.
+The matching algorithim is naive but works. Currently it combines 3 names, but these matches could be as small or large as desired. The initial input includes 28,364 names and the final result is 37,166 combinations.
 
 Thanks to [Matthew Martin](http://github.com/phy1729) of the [Linux User's Group @ UT Dallas](http://lug.utdallas.edu) for algorithm help. 
