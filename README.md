@@ -1,6 +1,8 @@
 nomcom
 ======
 
+**NOTICE: This repo has moved to [github.com/aaron-lebo/nomcom](https://github.com/aaron-lebo/nomcom).**
+
 combinations of names of notable individuals, such as:
 
 * Elton John Oliver Reed
